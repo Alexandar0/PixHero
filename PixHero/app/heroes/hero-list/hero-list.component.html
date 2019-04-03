@@ -1,0 +1,14 @@
+<div class="row">
+    <div class="col-xs-12">
+        <button class="btn btn-success" (click)="onNewHero()">New Hero</button>
+    </div>
+</div>
+<hr>
+<div class="row">
+    <div class="col-xs-12">
+      <app-hero-item 
+        *ngFor="let heroEl of heroes; let i = index"
+        [hero]="heroEl"
+        [index]="i"></app-hero-item>
+    </div>
+</div>
