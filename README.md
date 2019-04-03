@@ -1,7 +1,7 @@
 # PixHero
 Angular made web application
 
-  This is a simple character selection screen that could be used for a video game to pick, crate new
+  This is a simple character selection screen that could be used for a video game to pick, create new
 or manage your hero at the beginning of the game. For example it could be combined with the code of
 my other repository (see repository named 'JavaScriptGame') and worked around to optimize a fully
 functioning browser text-game.
