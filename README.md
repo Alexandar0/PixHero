@@ -10,4 +10,4 @@ to use it.
   I don't own any of the images used for the app, they are just random links to images I found with
 Google.
 
-  Here is a link to see how it looks like: https://pixelheroo.firebaseapp.com
+  Here is a link to see how it looks like:  https://pixelheroo.firebaseapp.com
